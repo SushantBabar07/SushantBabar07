@@ -18,7 +18,7 @@ To build impactful and efficient digital solutions while continuously growing as
 
 ### 🌐 **Social**  
 <p align="left">
-<a href="https://https://www.linkedin.com/in/sushant-babar-21b5a028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/sushant-babar-21b5a028a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="linkedin" /></a>
 <a href="mailto:sushantbabar18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
